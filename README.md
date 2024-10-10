@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning georeferencing historic militairy maps
 - 💞️ I’m looking to collaborate on any GIS related project
 - 📫 How to reach me casperdeblouwe@gmail.com
-- 😄 Pronouns: YO
+- 😄 Pronouns: mandem
   
 
 <!---
